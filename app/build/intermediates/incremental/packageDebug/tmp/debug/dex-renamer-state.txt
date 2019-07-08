@@ -1,0 +1,7 @@
+#Mon Jul 08 19:56:52 WIB 2019
+base.0=/Users/mnctv/Documents/Maulana/ANDROID/StackoverflowApi/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/mnctv/Documents/Maulana/ANDROID/StackoverflowApi/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

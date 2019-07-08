@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/usersLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="12dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@color/cardview_dark_background" />
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/userReputation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reputation" />
+
+    <TextView
+        android:id="@+id/userLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/goldenBadge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Golden Badge" />
+
+        <TextView
+            android:id="@+id/goldenValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="golden Value" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/silverBadge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Silver Badge" />
+
+        <TextView
+            android:id="@+id/silverValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Silver Value" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/bronzeBadge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bronze Badge" />
+
+        <TextView
+            android:id="@+id/bronzeValue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bronze Value" />
+    </LinearLayout>
+
+
+</LinearLayout>
