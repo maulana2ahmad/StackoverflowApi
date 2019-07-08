@@ -1,6 +1,11 @@
 # StackoverflowApi
 Get API StactOverflow
 
+### Priview
+
+![xaxaxa](https://user-images.githubusercontent.com/43386555/60812182-1da7c000-a1bb-11e9-80b9-036887f13a8d.gif)
+
+
 ## Structure API
 https://api.stackexchange.com/docs/users
 ![Screen Shot 2019-07-05 at 11 07 20 AM](https://user-images.githubusercontent.com/43386555/60812370-87c06500-a1bb-11e9-9cfe-411f47d626d2.png)
@@ -15,8 +20,3 @@ Structure Array
 
 Structure Array
 ![Screen Shot 2019-07-05 at 10 49 56 AM](https://user-images.githubusercontent.com/43386555/60812303-60699800-a1bb-11e9-8e4b-57318874c4ec.png) ![Screen Shot 2019-07-05 at 10 50 12 AM](https://user-images.githubusercontent.com/43386555/60812329-6eb7b400-a1bb-11e9-8729-06d25610f75e.png)
-
-
-### Priview
-
-![xaxaxa](https://user-images.githubusercontent.com/43386555/60812182-1da7c000-a1bb-11e9-80b9-036887f13a8d.gif)
